@@ -1,6 +1,6 @@
 # organizar_arquivos
 
- organizador_de_arquivos.py - Esse script organiza arquivos em uma pasta de acordo com suas extensões. 
+ organizador_de_arquivos.py - Esse script organiza arquivos em pastas de acordo com suas extensões. 
 
    'Imagens': ['.jpg', '.jpeg', '.png', '.gif', '.bmp'], <br>
    'Documentos': ['.pdf', '.txt', '.docx', '.xlsx'], <br>
